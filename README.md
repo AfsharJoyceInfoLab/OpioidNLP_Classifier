@@ -17,4 +17,4 @@ Model:
 
 Open the Opioid_Predict.py script and change the input and output directory
 Run the sript as python3 Opioid_predict.py
-The result will be inside the output directory inside a csv file, first column represents the files, second column represents predicted labels and the third column represents predict probability. 1 as current alcohol misuse and 0 as no alcohol misuse for the second column.
+The result will be inside the output directory inside a csv file, first column represents the files, second column represents predicted labels and the third column represents predict probability. 1 as current opioid misuse and 0 as no opioid misuse for the second column.
